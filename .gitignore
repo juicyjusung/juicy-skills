@@ -20,4 +20,8 @@ evals/
 
 # Compiled skill bundles
 *.skill
-docs
+docs/superpowers
+.env
+.agents
+.claude
+stocks

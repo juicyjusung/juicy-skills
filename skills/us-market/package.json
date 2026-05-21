@@ -1,0 +1,8 @@
+{
+  "name": "us-market-skill",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}

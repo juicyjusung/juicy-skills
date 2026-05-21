@@ -1,0 +1,4 @@
+interface:
+  display_name: "KR Daytrade"
+  short_description: "Plan Korean stock day trades"
+  default_prompt: "Use $kr-daytrade to build a Korean stock day-trading risk plan from my ticker and average price."
